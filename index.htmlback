@@ -177,7 +177,7 @@
                                 </div>
                                 <div class="feature-text">
                                     <h3>Expert Worker</h3>
-                                    <p>They have mastered the techniques and methodologies involved in construction, such as interpreting blueprints, estimating costs, scheduling tasks, coordinating resources, and executing construction activities with precision and efficiency.</p>
+                                    <p>Lorem ipsum dolor sit amet elit. Phasus nec pretim ornare velit non</p>
                                 </div>
                             </div>
                         </div>
@@ -188,11 +188,22 @@
                                 </div>
                                 <div class="feature-text">
                                     <h3>Quality Work</h3>
-                                    <p>It encompasses various aspects, including design, materials, craftsmanship, functionality, and durability.</p>
+                                    <p>Lorem ipsum dolor sit amet elit. Phasus nec pretim ornare velit non</p>
                                 </div>
                             </div>
                         </div>
-                                            </div>
+                        <div class="col-lg-4 col-md-12">
+                            <div class="feature-item">
+                                <div class="feature-icon">
+                                    <i class="flaticon-call"></i>
+                                </div>
+                                <div class="feature-texZerat">
+                                    <h3>24/7 Support</h3>
+                                    <p>Lorem ipsum dolor sit amet elit. Phasus nec pretim ornare velit non</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <!-- Feature End-->
@@ -209,15 +220,15 @@
                         </div>
                         <div class="col-lg-7 col-md-6">
                             <div class="section-header text-left">
-                                <p>Welcome to Zera Builders</p>
-                                <h2>20 Years Experience</h2>
+                                <p>Welcome to Builderz</p>
+                                <h2>25 Years Experience</h2>
                             </div>
                             <div class="about-text">
                                 <p>
-                                    With years of experience in the construction field, we have acquired a wealth of knowledge and honed our skills to deliver exceptional results. From our early days as a novice to our current standing as an experienced professionals, we have been involved in a diverse range of construction projects. This field experience has allowed us to understand the intricacies of the industry, from interpreting complex blueprints to coordinating resources and managing timelines.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
                                 </p>
                                 <p>
-                                    I We have gained expertise in various construction techniques and methodologies, enabling us to navigate challenges and find innovative solutions. Moreover, our experience has taught us the importance of effective communication and collaboration with team members, subcontractors, and clients. Zera Builders take pride in our ability to consistently deliver high-quality work, ensuring that each project is executed with precision, attention to detail, and adherence to safety standards. Our construction field experience has shaped us into a competent and reliable professionals who is dedicated to bringing dreams to life through the art of construction.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus. Aenean consectetur convallis porttitor. Aliquam interdum at lacus non blandit.
                                 </p>
                                 <a class="btn" href="">Learn More</a>
                             </div>
@@ -248,7 +259,7 @@
                                         <i class="flaticon-building"></i>
                                     </div>
                                     <div class="fact-text">
-                                        <h2 data-toggle="counter-up">132</h2>
+                                        <h2 data-toggle="counter-up">485</h2>
                                         <p>Happy Clients</p>
                                     </div>
                                 </div>
@@ -261,7 +272,7 @@
                                         <i class="flaticon-address"></i>
                                     </div>
                                     <div class="fact-text">
-                                        <h2 data-toggle="counter-up">152</h2>
+                                        <h2 data-toggle="counter-up">789</h2>
                                         <p>Completed Projects</p>
                                     </div>
                                 </div>
@@ -270,7 +281,7 @@
                                         <i class="flaticon-crane"></i>
                                     </div>
                                     <div class="fact-text">
-                                        <h2 data-toggle="counter-up">3</h2>
+                                        <h2 data-toggle="counter-up">890</h2>
                                         <p>Running Projects</p>
                                     </div>
                                 </div>
@@ -286,8 +297,8 @@
             <div class="service">
                 <div class="container">
                     <div class="section-header text-center">
-                        
-                        <h2>Our Services</h2>
+                        <p>Our Services</p>
+                        <h2>We Provide Services</h2>
                     </div>
                     <div class="row">
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -296,7 +307,7 @@
                                     <img src="img/service-1.jpg" alt="Image">
                                     <div class="service-overlay">
                                         <p>
-                                         Building construction encompasses the entire process of creating a structure, from the initial planning and design stages to the final completion and occupancy.
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
                                         </p>
                                     </div>
                                 </div>
@@ -312,7 +323,7 @@
                                     <img src="img/service-2.jpg" alt="Image">
                                     <div class="service-overlay">
                                         <p>
-                                            House renovation involves making significant changes or improvements to an existing residential property. It can encompass various aspects of the house, including Planning and Design, Structural Changes, Interior Renovations, Exterior Renovations, Mechanical Systems, Energy Efficiency Improvements and Finishing Touches. 
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
                                         </p>
                                     </div>
                                 </div>
@@ -327,8 +338,8 @@
                                 <div class="service-img">
                                     <img src="img/service-3.jpg" alt="Image">
                                     <div class="service-overlay">
-                                        <p>   
-                                          Architecture design is the process of creating the conceptual and visual representation of a building or structure. It involves the careful consideration of aesthetics, functionality, safety, and sustainability.
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
                                         </p>
                                     </div>
                                 </div>
@@ -344,7 +355,7 @@
                                     <img src="img/service-4.jpg" alt="Image">
                                     <div class="service-overlay">
                                         <p>
-                                            Interior design involves creating functional, aesthetically pleasing, and harmonious interior spaces within buildings. It focuses on the arrangement, selection, and integration of various elements to enhance the overall user experience.
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
                                         </p>
                                     </div>
                                 </div>
@@ -359,8 +370,8 @@
                                 <div class="service-img">
                                     <img src="img/service-5.jpg" alt="Image">
                                     <div class="service-overlay">
-                                        <p>    
-                                           Fixing and support in the context of construction and building maintenance involve activities aimed at repairing, maintaining, and providing structural support to buildings and infrastructure.
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
                                         </p>
                                     </div>
                                 </div>
@@ -376,7 +387,7 @@
                                     <img src="img/service-6.jpg" alt="Image">
                                     <div class="service-overlay">
                                         <p>
-                                            Painting a building involves the application of paint or coatings to its surfaces, both interior and exterior. Painting serves both functional and aesthetic purposes, providing protection, enhancing appearance, and preserving the integrity of the building.
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
                                         </p>
                                     </div>
                                 </div>
@@ -395,7 +406,7 @@
             <!-- Video Start -->
             <div class="video wow fadeIn" data-wow-delay="0.1s">
                 <div class="container">
-                    <button type="button" class="btn-play" data-toggle="modal" data-src="https:https://www.youtube.com/watch?v=jhak5jvO-ro" data-target="#videoModal">
+                    <button type="button" class="btn-play" data-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-target="#videoModal">
                         <span></span>
                     </button>
                 </div>
@@ -501,7 +512,7 @@
             <!-- Team End -->
             
 
-            <!-- FAQs Start 
+            <!-- FAQs Start -->
             <div class="faqs">
                 <div class="container">
                     <div class="section-header text-center">
@@ -640,10 +651,10 @@
                     </div>
                 </div>
             </div>
-             FAQs End -->
+            <!-- FAQs End -->
 
 
-            <!-- Testimonial Start 
+            <!-- Testimonial Start -->
             <div class="testimonial wow fadeIn" data-wow-delay="0.1s">
                 <div class="container">
                     <div class="row">
@@ -708,10 +719,10 @@
                     </div>
                 </div>
             </div>
-             Testimonial End -->
+            <!-- Testimonial End -->
 
 
-            <!--
+            <!-- Blog Start -->
             <div class="blog">
                 <div class="container">
                     <div class="section-header text-center">
@@ -782,7 +793,7 @@
                     </div>
                 </div>
             </div>
-             Blog End -->
+            <!-- Blog End -->
 
 
             <!-- Footer Start -->
